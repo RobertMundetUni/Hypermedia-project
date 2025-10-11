@@ -8,3 +8,5 @@ The visual design is deliberately restrained and professional to match recruiter
 
 Figma Project: https://www.figma.com/design/pFGckW4IVz5eUxoTUoEfKC/CV_RobertMundet_u1994951?node-id=0-1&t=ORRLtcmfP7MEvqYR-1
 
+Project: https://robertmundetuni.github.io/Hypermedia-project/
+
